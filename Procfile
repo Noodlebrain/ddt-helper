@@ -1,0 +1,1 @@
+worker: python3 ddt_helper.py
